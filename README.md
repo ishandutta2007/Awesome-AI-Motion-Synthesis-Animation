@@ -1,112 +1,78 @@
-# Awesome-AI-Motion-Synthesis-Animation
+# Awesome AI Motion Synthesis & Animation 🚀✨
 
-## Top AI Motion Synthesis & Animation Ecosystem
+<div align="center">
 
+<img src="assets/banner.svg" alt="Awesome AI Motion Synthesis &amp; Animation Banner" width="100%" />
 
+<br/>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Motion-Synthesis-Animation?style=social)](https://github.com/ishandutta2007/Awesome-AI-Motion-Synthesis-Animation/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Motion-Synthesis-Animation?style=social)](https://github.com/ishandutta2007/Awesome-AI-Motion-Synthesis-Animation/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-AI-Motion-Synthesis-Animation/pulls)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-*Focused on Text-to-Motion Generation, AI Markerless Motion Capture, Motion Retargeting, Physics-Assisted Animation & Programmatic Motion Graphics*  
+<p align="center">
+  <b>A curated catalog of leading SaaS platforms and state-of-the-art open-source projects for AI Motion Synthesis, Markerless Motion Capture (MoCap), Text-to-3D Motion, Neural Character Animation, and Kinematic Retargeting.</b>
+</p>
 
-**Last updated: November 2026**
+</div>
 
+---
 
+## 📖 Table of Contents 📌
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Motion Synthesis & Animation**. These tools synthesize 3D human and character animations from text prompts, audio, or 2D videos, extract markerless skeletal kinematics without mocap suits, apply physics-grounded secondary motion, and automate motion design workflows.
+- [🌟 Introduction & SEO Overview](#-introduction--seo-overview)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 SaaS & Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
+## 🌟 Introduction & SEO Overview 🔍
 
-**Examples** include Move.ai, DeepMotion, Plask, RADiCAL Motion, Kinetix, Rokoko Video & Studio, Wonder Dynamics (Autodesk Flow Studio), Cascadeur, AnyWorld, and alchaincyf/huashu-motion (the category leaders). 
+Welcome to the definitive repository for **AI Motion Synthesis, AI Character Animation, and Markerless Motion Capture (MoCap)**. The convergence of generative AI, deep reinforcement learning, and 3D computer vision is revolutionizing computer graphics (CG), VFX production, video game development, and spatial computing.
 
+Whether you are looking for enterprise-grade text-to-animation suites, cloud video-to-mocap pipelines, diffusion transformers (`DiT`), SMPL/SMPL-X parametric mesh recovery, or programmatic motion design frameworks (such as Remotion and Motion Canvas), this curated guide covers both market-leading commercial platforms and groundbreaking open-source research codebases.
 
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for text-to-3D-motion diffusion models (`HY-Motion-1.0`, `MotionDiffuse`, `MDM`, `T2M-GPT`), monocular & multi-camera markerless mocap (`FreeMoCap`, `WHAM`, `GVHMR`, `EasyMocap`), character motion transfer (`LivePortrait`, `MimicMotion`), and motion design skills (`huashu-motion`) — ideal for 3D animators, game developers, VFX artists, and motion researchers.
+## 📊 Sector Overview & Market Dynamics 📈
 
+The global market for **AI Motion Capture and Generative AI Animation** is valued at approximately **$1.6B – $2.6B in 2025–2026** (with 3D motion capture accounting for ~$320M–$390M growing at ~13% CAGR, and generative AI animation software reaching ~$1.3B–$2.2B surging at an explosive ~30–39% CAGR toward multi-billion-dollar scale by 2032). 
 
+The industry demonstrates a **moderately fragmented market structure**: legacy computer graphics and CAD giants (such as Adobe and Autodesk) command immense foundational scale and ecosystem gravity, while specialized venture-backed startups and agile research teams (Move.ai, DeepMotion, Cascadeur, Rokoko) fiercely contest high-performance niches including markerless multi-camera reconstruction, real-time physics-assisted posing, and browser-native neural mocap.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
+## 💼 SaaS & Hosted Commercial Platforms 🏢
 
+*Ranked by company scale (market capitalization, enterprise valuation, or total venture funding/revenue in descending order).*
 
-## Table of Contents
+| Company / Product | Category & Core Focus | Company Size (Valuation / Market Cap / Funding) | Pricing (Starting Tier) | Free Tier & Free Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Mixamo](https://mixamo.com)** | 3D Auto-Rigging & Animation Library | **~$88B – $95B Market Cap** (Adobe Inc., NASDAQ: ADBE) | **$0.00** (Included with Adobe Account) | **100% Free Forever** (Requires a free Adobe ID; unlimited royalty-free character auto-rigging and animation downloads for commercial & personal projects). |
+| **[Wonder Dynamics (Autodesk Flow Studio)](https://wonderdynamics.com)** | AI Video-to-VFX & CG Character MoCap | **~$53B – $56B Market Cap** (Parent: Autodesk, NASDAQ: ADSK) | **$10.00 / mo** (Lite Tier, billed annually) | **Permanent Free Tier** (300 credits/mo = ~15s video rendering or ~30s AI mocap, 1 GB storage, 720p watermarked output, non-commercial use). |
+| **[Rokoko Studio & Rokoko Video](https://rokoko.com)** | Single/Dual Camera AI MoCap & Studio Suite | **>$80M Valuation** (~$18M Venture Funded) | **$10.00 / mo** ($120/yr Basic Plan) | **Permanent Free Plan (Starter: $0)** (30s video mocap processing/mo via Vision AI, unlimited text-to-motion generation with 5 Studio imports/mo, FBX export, 1 month cloud storage). |
+| **[Anything World (AnyWorld)](https://anything.world)** | AI 3D Model Generation & Auto-Rigging | **~$9.3M Total Funding** (Series Seed Plus / Series A) | **$30.00 / mo** (Nano Plan) | **Permanent Free Tier (Individual: $0)** (15 credits/mo to generate, auto-rig, and animate 3D models; includes 1 model download per month). |
+| **[Plask Motion](https://plask.ai)** | Browser-Based AI MoCap & Keyframe Studio | **~$2.56M Funding** (Pre-Series A) | **$18.00 / mo** (Standard, billed annually) | **Permanent Free Tier (Freemium: $0)** (15 seconds of AI motion capture per day, 1 GB cloud storage, standard FBX/GLB/BVH export, personal non-commercial license). |
+| **[DeepMotion](https://deepmotion.com)** | Cloud Markerless MoCap & Physics Simulation | **~$2.2M Funding + Strategic** (Bandai Namco, Samsung Ventures) | **$9.00 / mo** ($108/yr Starter Plan) | **Permanent Free Plan (Freemium: $0)** (3 animation credits/mo = ~60s processing, max 10s clip length, 1 download/mo, lowest queue priority, non-commercial license; earn back credits via model labeling). |
+| **[Move.ai (Move One)](https://move.ai)** | Single/Multi-Cam AI Markerless Motion Capture | **~$1.5M – £34.8M Peak** (£1.1M Rev; Acquired by Oxford Metrics / Vicon) | **$18.00 / mo** (Starter Tier, 60 credits/mo) | **Free Signup Allocation** (One-time allotment of 30 free credits that do not expire, max 30-second video recording/processing clip length; no recurring monthly reset without active subscription). |
+| **[Cascadeur](https://cascadeur.com)** | Physics-Assisted AI Keyframe Animation | **~$1.5M Dedicated Scale** (Nekki Internal Ecosystem) | **$19.00 / mo** ($96/yr Indie Tier) | **Permanent Free Tier ($0)** (Full AI AutoPosing and AutoPhysics toolset, non-commercial use; project saves restricted to proprietary `.casc` format with standard FBX/DAE/USD exports locked to paid tiers). |
+| **[Kinetix](https://kinetix.tech)** | AI Motion SDK & In-Game Emote Generation | **Private / VC-Backed Lab** (Early-Stage B2B Provider) | **Custom B2B / €0.15 per emote** (SDK Integration) | **Free Developer Sandbox Tier** (Indie developers receive up to 10,000 free emote generation credits for initial testing and SDK integration prior to metered billing). |
+| **[RADiCAL Motion](https://radicalmotion.com)** | Real-Time Browser 3D Pose Estimation | **Legacy Acquisition / Winding Down** (Core IP Acquired by Autodesk) | **Historical: ~$8.00 / mo** (Service Transitioned) | **Platform Shut Down / Historical Archive** (Previously offered 15 min/mo motion playtime free tier; web portal now sunset following Autodesk IP acquisition). |
 
-- [SaaS/Hosted Platforms](#saashosted-platforms)
+---
 
-- [Open-Source GitHub Projects](#open-source-github-projects)
+## 🔓 Open-Source GitHub Projects 💻
 
-- [How to Contribute](#how-to-contribute)
+*Curated list of 37 state-of-the-art open-source repositories for text-to-motion generation, markerless motion capture, human mesh recovery (HMR), parametric body modeling, and programmatic animation, sorted in descending order by GitHub star count.*
 
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Move.ai](https://move.ai)**  
-
-  Multi-camera and single-camera markerless AI motion capture platform extracting studio-grade 3D skeletal animations from standard video without suits or physical markers.
-
-
-
-- **[DeepMotion](https://deepmotion.com)**  
-
-  Cloud AI markerless motion synthesis suite converting 2D videos and text prompts into physics-simulated full-body, hand, and facial 3D character animations.
-
-
-
-- **[Plask](https://plask.ai)**  
-
-  Browser-based AI motion capture and 3D keyframe animation studio for extracting, cleaning, and retargeting video motion directly onto custom 3D rigs.
-
-
-
-- **[RADiCAL Motion](https://radicalmotion.com)**  
-
-  Cloud-native AI computer vision platform providing real-time, browser-based 3D human pose estimation and multiplayer motion capture from standard webcams.
-
-
-
-- **[Kinetix](https://kinetix.tech)**  
-
-  No-code cloud AI platform and SDK for converting videos and prompts into 3D character emotes and integrating user-generated motion into games and virtual worlds.
-
-
-
-- **[Rokoko Studio & Rokoko Video](https://rokoko.com)**  
-
-  All-in-one motion capture software and cloud AI video-to-mocap service supporting single/dual-camera webcam capture alongside inertial Smartsuits and Smartgloves.
-
-
-
-- **[Wonder Dynamics (Autodesk Flow Studio)](https://wonderdynamics.com)**  
-
-  Cloud AI VFX studio that automatically captures actor motion and camera tracks from live-action footage to animate and composite CG characters into scenes.
-
-
-
-- **[Cascadeur](https://cascadeur.com)**  
-
-  Physics-assisted 3D keyframe animation software featuring AI-powered AutoPosing, video-to-mocap import, center-of-mass trajectory editing, and secondary motion tools.
-
-
-
-- **[AnyWorld](https://anyworld.ai)**  
-
-  Cloud AI 3D world and interactive character animation platform enabling rapid character rigging, motion synthesis, and real-time game asset deployment.
-
-
-
-- **[Adobe Mixamo](https://mixamo.com)**  
-
-  Cloud-based automatic 3D character rigging service and vast library of downloadable motion-captured animations ready for games, film, and retargeting pipelines.
-
-
-
-
-
-## Open-Source GitHub Projects
 
 - **[Remotion (`remotion-dev/remotion`)](https://github.com/remotion-dev/remotion)** [![GitHub stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)  
   Leading open-source TypeScript and React framework for programmatic motion synthesis, video creation, and kinetic typography.
@@ -219,13 +185,37 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[vid2anim (`mehulcode12/vid2anim`)](https://github.com/mehulcode12/vid2anim)** [![GitHub stars](https://img.shields.io/github/stars/mehulcode12/vid2anim?style=social&color=white)](https://github.com/mehulcode12/vid2anim/stargazers)  
   Open-source (`MIT`) AI motion capture and universal character retargeting studio with a Blender add-on supporting Mixamo, VRM, Rigify, and Unreal Engine Mannequins.
 
+---
+## 📈 Star History 📊
 
-## How to Contribute
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-AI-Motion-Synthesis-Animation&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-AI-Motion-Synthesis-Animation&type=date&legend=top-left)
 
+---
 
+## 🤝 How to Contribute 🛠️
 
-1. Fork the repo.
+Contributions are welcome! Please follow these guidelines:
 
-2. Add/edit entries in `README.md` (follow existing format).
+1. 🍴 Fork the repository.
+2. 🌿 Create a new feature branch (git checkout -b feature/add-motion-tool).
+3. 📝 Add or update entries in README.md adhering to the table format for SaaS or list format for Open-Source projects.
+4. 🔗 Include accurate project names, direct links, GitHub star badges, verified pricing, and factual descriptions.
+5. 🚀 Open a well-documented Pull Request!
 
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+---
+
+## 💖 Support ☕
+
+If you found this curated ecosystem directory useful, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and share** with colleagues, animators, and researchers.
+- ☕ **Buy me a coffee**: Sponsor ongoing open-source curation and development via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Thank you for being part of the open AI motion community! ❤️
+
+---
+
+## ⚖️ Disclaimer 🛡️
+
+All product names, logos, brands, and registered trademarks belong to their respective owners. Company names, products, valuations, and service pricing featured in this repository are for informational, comparative, and educational purposes only.
